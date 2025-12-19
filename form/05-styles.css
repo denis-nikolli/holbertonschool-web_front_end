@@ -924,6 +924,19 @@ textarea:focus {
 }
 
 
+
+/* Form field
+============================= */
+
+.form-field-container {
+    position: relative;
+}
+
+.form-field-icon {
+    font-style: normal;
+}
+
+
 /* Form help
 ============================= */
 
